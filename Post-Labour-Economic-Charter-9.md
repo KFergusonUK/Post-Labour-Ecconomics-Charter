@@ -1,5 +1,4 @@
-# Post-Labour Economic Charter (PLEC)
-## The Automation Dividend Framework
+# Post-Labour Economic Charter (PLEC) ## The Automation Dividend Framework
 
 ---
 
