@@ -1,4 +1,5 @@
 # Post-Labour Economic Charter (PLEC)
+## The Automation Dividend Framework
 
 **A policy framework for the fair distribution of automation gains, guaranteed human welfare, and ethical co-existence with AI — across the transition from a labour economy to an abundance economy.**
 
@@ -50,8 +51,7 @@ In a theoretical state of full abundance — where everything costs nothing — 
 
 **Anti-avoidance architecture** — offshore labour counts at 0.33 weighting. Executive pay above 20x UBI level is excluded from human share calculations. Shell companies, subsidiary fragmentation, and sequential incorporation are explicitly caught.
 
-**Automated community development** — a mandatory NADF housing investment obligation funds beautifully designed, 15-minute communities. Phased rent falling to zero as UBI matures. Private rental market transitions through superior alternative rather than confiscation.
-It should be noted that 15-minute communities are solely for convenience — ensuring daily necessities are accessible on foot — and in no way limits or restricts travel outside of the community.
+**Automated community development** — a mandatory NADF housing investment obligation funds beautifully designed, 15-minute communities. Phased rent falling to zero as UBI matures. Private rental market transitions through superior alternative rather than confiscation. It should be noted that 15-minute communities are solely for convenience — ensuring daily necessities are accessible on foot — and in no way limits or restricts travel outside of the community.
 
 **Education and the Curiosity Grant** — curriculum reoriented toward distinctly human skills. Staged, non-repayable grants for high-ambition human ventures that conventional investment ignores.
 
@@ -69,7 +69,7 @@ It should be noted that 15-minute communities are solely for convenience — ens
 | Year 10 | £356bn | ~£549/month | ~£714/month |
 | Year 20 | £645bn | ~£994/month | ~£1,292/month |
 
-Full UBI viability at dignified living standards is projected in the **Year 8–12 range**, though this is projected only, and real world conditions may decrease or increase this timescale, the system is designed to automatically adapt.
+Full UBI viability at dignified living standards is projected in the **Year 8–12 range**, though this is projected only, and real world conditions may decrease or increase this timescale — the system is designed to automatically adapt.
 
 Funding sources include private sector ADC, public sector automation savings, equity fund returns, benefits spend rationalisation, and elimination of the employment support bureaucratic infrastructure — which exists solely because work is currently compulsory for survival, and becomes redundant when it is not.
 
@@ -101,6 +101,7 @@ This methodology — using AI systems as genuine intellectual collaborators in t
 **Contact:** kevinferguson@hotmail.co.uk
 
 ---
+
 
 ## Version History
 
